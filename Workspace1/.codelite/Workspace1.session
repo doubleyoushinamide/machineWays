@@ -4,9 +4,9 @@
   <wxString Value="/Users/mac/machineWays/Workspace1/Workspace1.workspace" Name="m_workspaceName"/>
   <TabInfoArray Name="TabInfoArray">
     <TabInfo>
-      <wxString Value="/Users/mac/machineWays/Workspace1/user_input_test/main.cpp" Name="FileName"/>
+      <wxString Value="/Users/mac/machineWays/Workspace1/task_one/main.cpp" Name="FileName"/>
       <int Value="0" Name="FirstVisibleLine"/>
-      <int Value="12" Name="CurrentLine"/>
+      <int Value="21" Name="CurrentLine"/>
       <wxArrayString Name="Bookmarks"/>
       <IntVector Name="CollapsedFolds"/>
     </TabInfo>
